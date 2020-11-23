@@ -4,7 +4,7 @@ Pagar.me Java Library
 
 ## Requirements
 
-- Java >= 6 && <= 8
+- Java >= 6 && <= 14
 
 ## Configure your API key
 
